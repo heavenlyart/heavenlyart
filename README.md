@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenlyart&label=Profile%20views&color=0e75b6&style=flat" alt="heavenlyart" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavenlyart" alt="heavenlyart" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavenlyart&theme=radical" alt="heavenlyart" /></a> </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/0sg2WFt8WYgAAAAd/absolutewater-cinemalloyd.gif" width="400" alt="LLoyd is Water">
 </p>

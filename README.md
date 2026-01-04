@@ -25,10 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heavenlyart&show_icons=true&locale=en&layout=compact" alt="heavenlyart" /></p>
 
 ### 📊 My Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heavenlyart&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=heavenlyart&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=heavenlyart&show_icons=true&theme=radical" alt="github stats" height="165" />
+  <img align="right" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=heavenlyart&show_icons=true&theme=radical" alt="github top lang" height="165"/>
 </p>
 
 <p align="center">
